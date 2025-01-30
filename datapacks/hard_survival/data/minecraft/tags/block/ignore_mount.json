@@ -1,0 +1,14 @@
+{
+    "values": [
+        "#minecraft:replaceable",
+        "#minecraft:flowers",
+        "#minecraft:buttons",
+        "#minecraft:all_signs",
+        "#minecraft:rails",
+        "#minecraft:wool_carpets",
+        "#minecraft:pressure_plates",
+        "#minecraft:crops",
+        "minecraft:torch",
+        "minecraft:soul_torch"
+    ]
+}
