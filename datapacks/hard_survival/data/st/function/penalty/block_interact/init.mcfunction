@@ -1,3 +1,4 @@
+##스코어보드 생성
 scoreboard objectives add block_interact_detector dummy
 scoreboard objectives add furnance_interact_detector minecraft.custom:minecraft.interact_with_furnace
 scoreboard objectives add crafting_table_interact_detector minecraft.custom:minecraft.interact_with_crafting_table
